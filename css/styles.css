@@ -423,11 +423,11 @@ width: 100%;
     flex-direction: row;
     justify-content: start;
     align-items: baseline;
-    gap: 120px;
+    
 }
 
 .footer-description-container {
-display: flex;
+
     flex-direction: column;
     justify-content: start;
     align-items: start;
